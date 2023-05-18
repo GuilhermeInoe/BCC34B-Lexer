@@ -1,0 +1,8 @@
+int  soma  (  int  u  ,  int  v  ) {
+int  x  ;  int  y  ;  int  z  ;
+x  =  input  ( )  ;
+y  =  input  ( )  ;
+z  =  soma  (  x  ,  y  ) ;
+output  (  z  )  ;
+return  0  ;
+}
